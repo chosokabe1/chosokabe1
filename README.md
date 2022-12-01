@@ -11,7 +11,7 @@
 2022年6月4日-2022年6月5日知覚情報研究会
 
 ### スキル
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)  
 python,pytorch,c++,javascript,php,mysql,linux,visualstudio,vscode
 ### 資格
 * TOEIC 745点
