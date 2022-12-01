@@ -12,7 +12,7 @@
 
 ### スキル
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)
-
+python,pytorch,c++,javascript,php,mysql,linux,visualstudio,vscode
 ### 資格
 * TOEIC 745点
 
