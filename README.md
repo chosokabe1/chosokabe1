@@ -11,7 +11,7 @@
 2022年6月4日-2022年6月5日知覚情報研究会.
 
 ### 経験
-* 大学院PBL　工場向けジェスチャ入力システム[pdf](ポートフォリオ_手袋.pdf)
+* 大学院PBL　工場向けジェスチャ入力システム[[pdf](ポートフォリオ_手袋.pdf)]
 
 ### スキル
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)  
