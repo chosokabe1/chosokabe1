@@ -10,6 +10,9 @@
 * 長曽我部 崇，一色 正晴，木下 浩二．微生物検出のためのクロマキー合成を用いたデータ拡張手法の提案.  
 2022年6月4日-2022年6月5日知覚情報研究会.
 
+### 経験
+* 大学院PBL　工場向けジェスチャ入力システム
+
 ### スキル
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)  
 python,pytorch,c++,javascript,php,mysql,linux,visualstudio,vscode
