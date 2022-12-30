@@ -13,7 +13,7 @@
 ### 経験
 * 研究テーマ　深層学習を用いた顕微鏡映像中の微生物画像認識
 * 大学院PBL　工場向けジェスチャ入力システム[[pdf](ポートフォリオ_手袋.pdf)]
-* 趣味　AI画像処理を用いた二度寝防止システム
+* 趣味　AI画像処理を用いた二度寝防止システム[[pdf](ポートフォリオ＿AI目覚まし.pdf)]
 
 ### スキル
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)  
