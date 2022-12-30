@@ -12,6 +12,7 @@
 
 ### 経験
 * 大学院PBL　工場向けジェスチャ入力システム[[pdf](ポートフォリオ_手袋.pdf)]
+* 趣味　AI画像処理を用いた二度寝防止システム
 
 ### スキル
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)  
