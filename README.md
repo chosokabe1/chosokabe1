@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)  
 python,pytorch,c++,javascript,php,mysql,linux,visualstudio,vscode
 ### 資格
-* TOEIC 745点
+* TOEIC Listening & Readingスコア 870 実施日：2023年10月29日
 
 <!--
 **chosokabe1/chosokabe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
