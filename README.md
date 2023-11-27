@@ -2,7 +2,14 @@
 * 学年：M2
 * 所属：愛媛大学大学院 理工学研究科 電子情報工学専攻 画像処理・理解研究室
 * 研究分野：深層学習、画像処理
+
+### 論文
 * 卒業論文：◯◯◯検出のためのクロマキー合成を用いたデータ拡張手法の提案（非公開）
+* 査読付論文：長曽我部 崇，一色 正晴，木下 浩二．クラス分類のための細線化処理とダイクストラのアルゴリズムを用いた物体の中心推定法. 電気学会論文誌C 2024年5月号「医用・生体工学関連技術」特集
+  
+### 資格
+* TOEIC Listening & Readingスコア 870
+  実施日：2023年10月29日
 
 ### 研究会
 * 長曽我部 崇，一色 正晴，木下 浩二．微生物検出のためのクロマキー合成を用いたデータ拡張手法の提案.  
@@ -24,9 +31,7 @@
 ### スキル
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,php,mysql,linux,visualstudio,vscode)](https://skillicons.dev)  
 python,pytorch,c++,javascript,php,mysql,linux,visualstudio,vscode
-### 資格
-* TOEIC Listening & Readingスコア 870
-  実施日：2023年10月29日
+
 
 <!--
 **chosokabe1/chosokabe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
