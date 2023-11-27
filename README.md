@@ -5,7 +5,8 @@
 
 ### 論文
 * 卒業論文：◯◯◯検出のためのクロマキー合成を用いたデータ拡張手法の提案（非公開）
-* 査読付論文：長曽我部 崇，一色 正晴，木下 浩二．クラス分類のための細線化処理とダイクストラのアルゴリズムを用いた物体の中心推定法. 電気学会論文誌C 2024年5月号「医用・生体工学関連技術」特集
+* Peer-Reviewed Paper: Takashi Chosokabe, Masaharu Isshiki, Koji Kinoshita. Object Center Estimation Using Thinning Processes and Dijkstra's Algorithm for Classification. IEEJ Transactions on Electronics, Information and Systems (2024) Special Issue on "Medical and Biological Engineering".
+  査読付論文：長曽我部 崇，一色 正晴，木下 浩二．クラス分類のための細線化処理とダイクストラのアルゴリズムを用いた物体の中心推定法. 電気学会論文誌C 2024年5月号「医用・生体工学関連技術」特集
   
 ### 資格
 * TOEIC Listening & Readingスコア 870
